@@ -29,10 +29,6 @@ xcuserdata
 *.hmap
 *.ipa
 
-# External repositories
-Libs/
-QuelonApiSdk/
-
 # Frameworks
 *.framework
 
